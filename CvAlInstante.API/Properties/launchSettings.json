@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CvAlInstante.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:64469;http://localhost:64470"
+    }
+  }
+}

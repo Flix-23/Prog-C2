@@ -1,0 +1,5 @@
+C:\Users\felix\Downloads\CvAlInstanteSolution_FULL_UPDATED\CvAlInstante.Application\obj\Debug\net8.0\CvAlInstante.Application.csproj.AssemblyReference.cache
+C:\Users\felix\Downloads\CvAlInstanteSolution_FULL_UPDATED\CvAlInstante.Application\obj\Debug\net8.0\CvAlInstante.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\Downloads\CvAlInstanteSolution_FULL_UPDATED\CvAlInstante.Application\obj\Debug\net8.0\CvAlInstante.Application.AssemblyInfoInputs.cache
+C:\Users\felix\Downloads\CvAlInstanteSolution_FULL_UPDATED\CvAlInstante.Application\obj\Debug\net8.0\CvAlInstante.Application.AssemblyInfo.cs
+C:\Users\felix\Downloads\CvAlInstanteSolution_FULL_UPDATED\CvAlInstante.Application\obj\Debug\net8.0\CvAlInstante.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\dtos\\resumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\dtos\\resumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\dtos\\createresumerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\dtos\\createresumerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\core\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\core\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\contract\\iresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\contract\\iresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|c:\\users\\felix\\downloads\\cvalinstantesolution_full_updated\\cvalinstante.application\\contract\\ieducationrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74D16B9-22EA-4DDD-85F5-3AF9FCA72A42}|CvAlInstante.Application\\CvAlInstante.Application.csproj|solutionrelative:cvalinstante.application\\contract\\ieducationrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillDto.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\SkillDto.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Dtos\\SkillDto.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\SkillDto.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Dtos\\SkillDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumeDto.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\ResumeDto.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Dtos\\ResumeDto.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\ResumeDto.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Dtos\\ResumeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:37.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtoBase.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\DtoBase.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Dtos\\DtoBase.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\DtoBase.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Dtos\\DtoBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:35.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateResumeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\CreateResumeRequest.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Dtos\\CreateResumeRequest.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Dtos\\CreateResumeRequest.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Dtos\\CreateResumeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:34.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Core\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Core\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Core\\ServiceResult.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Core\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Core\\IBaseService.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Core\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Core\\IBaseService.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Core\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Core\\BaseService.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Core\\BaseService.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Core\\BaseService.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Core\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IResumeService.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Contract\\IResumeService.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Contract\\IResumeService.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Contract\\IResumeService.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Contract\\IResumeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEducationRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Contract\\IEducationRecordService.cs",
+              "RelativeDocumentMoniker": "CvAlInstante.Application\\Contract\\IEducationRecordService.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\CvAlInstanteSolution_FULL_UPDATED\\CvAlInstante.Application\\Contract\\IEducationRecordService.cs",
+              "RelativeToolTip": "CvAlInstante.Application\\Contract\\IEducationRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:21.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
