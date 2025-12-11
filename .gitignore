@@ -1,0 +1,77 @@
+# Environment variables (local configuration)
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+/pnpm-lock.yaml
+
+# Build outputs (Next.js)
+.next/
+/out/
+/build/
+/dist/
+
+# IDE & Editor
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+.gitkeep
+
+# Testing & Coverage
+/coverage
+.nyc_output
+*.lcov
+
+# Logs
+npm-debug.log*
+npm-error.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log
+
+# .NET Build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.sln.iml
+packages/
+.vs/
+launchSettings.json
+appsettings.Development.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Temporary & Cache files
+*.tmp
+*.temp
+*.cache
+.cache/
+
+# MacOS
+.AppleDouble
+.LSOverride
+._*
+
+# VSCode workspace settings
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
